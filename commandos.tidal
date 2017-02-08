@@ -1,0 +1,9 @@
+d1 $ striate 4 $ sound "[bass3:4]*2"
+
+d2 $ slow 2 $ every 4 (|+| speed "0.2") $ sound "[bd [can*4 tabla3] sn:2]/3 tabla1 can*3 sn:2"
+
+d3 $ sound "[metal:0]"
+
+d3 $ silence
+
+hush

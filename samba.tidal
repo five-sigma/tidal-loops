@@ -1,0 +1,11 @@
+bps (90/120)
+
+d1 $ sound "[bd:6 [~ dr55:2] bd:4] [dr55:2 bd:4 ~]"
+
+d2 $ every 2 (|+| up "0 12 10 12") $ sound "[bass3 ~ bass3]*2"
+
+d2 $ silence
+
+hush
+
+
